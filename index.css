@@ -1,0 +1,14 @@
+.landing{
+    background-image: url(./images/bg2.jpeg);
+    height:700px;
+    width: 100%;
+    opacity:80%;
+    animation:infinite;
+    color:black;
+
+}
+.logo{
+    color:white;
+    padding-left:7%;
+    padding-top: 5%;
+}
