@@ -41,3 +41,7 @@ ul {
   li a:hover {
     background-color:aqua;
   }
+  .round{
+    border-radius:60%;
+    border-style: solid;
+}
